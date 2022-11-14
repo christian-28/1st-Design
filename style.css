@@ -176,7 +176,7 @@ footer p {
 
 
 /* MOBILE RESPONSIVE */
-@media (max-width: 700px) {
+@media (max-width: 1060px) {
  .heading img {
    margin: 30px 0px 0px 30px;
  }
